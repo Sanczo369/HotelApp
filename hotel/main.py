@@ -28,3 +28,8 @@ def main():
     # Pokoje z dużym łóżkiem na piętrze
     large_beds = hotel.count_large_bed_rooms_on_floor(2)
     print(f"Liczba pokoi z dużym łóżkiem na piętrze 2: {large_beds}")
+
+
+
+if __name__ == "__main__":
+    main()
